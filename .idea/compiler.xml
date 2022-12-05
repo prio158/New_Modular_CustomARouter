@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="New_Modular_CustomARouter.app" target="1.8" />
+      <module name="New_Modular_CustomARouter.arouter_api" target="1.8" />
+      <module name="New_Modular_CustomARouter.common" target="1.8" />
+      <module name="New_Modular_CustomARouter.order" target="1.8" />
+      <module name="New_Modular_CustomARouter.personal" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
