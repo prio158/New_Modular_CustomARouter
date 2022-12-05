@@ -1,2 +1,3 @@
 # New_Modular_CustomARouter
 基于ARouter开发一款的Router的框架
+组件化：模块之间没有任何依赖，彼此还可以通信
