@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/72843017/205787466-f8da6d38-c7bd-4ee7-8cf7-26a0e92a8515.png)
 
-1、ARouter注解：被ARouter注解的类在编译期通过APT技术，生成一个HashMap，key为group,value为List<RouterBean>>
+1、ARouter注解：被ARouter注解的类在编译期通过APT技术，生成一个HashMap，key为group,value为List<RouterBean>
   
 2、RouterBean：是一种数据类型，路由路径Path的最终实体封装类，它里面会携带被ARouter注解的类的grouop、path、类信息。
   
